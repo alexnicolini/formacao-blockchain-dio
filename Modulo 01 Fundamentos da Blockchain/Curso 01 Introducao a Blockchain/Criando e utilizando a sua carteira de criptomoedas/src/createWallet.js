@@ -39,9 +39,6 @@ switch (network) {
   case bitcoin.networks.regtest:
     msgNetWork = "regtest"
     break
-  case bitcoin.networks.regtest:
-    msgNetWork = "regtest"
-    break
   default:
     msgNetWork = "Rede desconhecida"
 }
